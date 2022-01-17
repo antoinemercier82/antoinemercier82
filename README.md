@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on a large web application at my company using React.js/Typescript/Chakra UI/Redux Toolkit/Django Rest Framework
 - 🌱 I started learning Python for Data Science in 2017, then web programming with Django and Javascript. I am constantly learning but I try to stick to the Javascript/Python worlds for now
-- 👯 I am so busy I don't have time to collaborate right now unfortunately
 - 📫 How to reach me: antoinemercier82@hotmail.com
 
 <!--
