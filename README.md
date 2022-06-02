@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a large web application at my company using React.js/Typescript/Chakra UI/Redux Toolkit/Django Rest Framework
-- 🌱 I started learning data science with Python and the sci-py stack in 2017, then web programming with Django and Javascript in 2019. I am constantly learning but I try to stick to the Javascript/Python worlds for now
+- 🌱 I started learning data science with Python and the scientific stack in 2017, then web programming with Django and Javascript in 2019. I am constantly learning but I try to stick to the Javascript/Python worlds for now
 - 📫 How to reach me: antoinemercier82@hotmail.com
 
 <!--
